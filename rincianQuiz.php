@@ -39,7 +39,7 @@ $materiPilihan = ${$_GET['materi']};
                 <td><?php echo $materiPilihan->getJumlahSoal();?></td>
             </tr>
         </table>
-        <p>Kerjakan dengan serius, jujur, dan tepat waktu!</p>
+        <p>Kerjakan dengan jujur dan serius!</p>
     </div>
     <div class="siap">
         <p>Sudah siap?</p>
