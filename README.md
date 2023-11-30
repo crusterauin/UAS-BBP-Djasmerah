@@ -6,4 +6,4 @@ Anggota Kelompok
 
 Nama Proyek  : Djasmerah
 
-Djasmerah adalah platform pembelajaran sejarah Indonesia berbasis web. Terdapat beberapa materi dan kuis untuk menambah pemahaman pengguna terhadap sejarah Indonesia.
+Djasmerah adalah platform pembelajaran sejarah berbasis web. Terdapat beberapa materi dan kuis untuk menambah pemahaman pengguna terhadap sejarah Indonesia.
