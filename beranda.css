@@ -57,6 +57,8 @@ nav {
 .kanan {
     display: flex;
     justify-content: center;
+    height: 50.3rem;
+    margin-right: 2rem;
 }
 
 .atas {
